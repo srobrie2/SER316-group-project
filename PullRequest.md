@@ -1,5 +1,5 @@
 ## Gabby
-> Paste link here
+> https://github.com/hfishco/story-time-repo/pull/2#issue-1558645426
 ## Sophie 
 > Paste link here
 ## Sydney 
