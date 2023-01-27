@@ -7,6 +7,12 @@ He was bitter, so he turned off the Klimaanlage in the baeckerei.
 He wanted all the customers who laughed at him to suffer in the heat while they pick up their brot and geback. 
 However, one day the nice man who worked at the biergarten across the street came into the shop. 
 The biergaten worker invited him to a wettbewerbsfaehig Schloss building contest.
+<<<<<<< HEAD
 The biergaten worker saw a mehlhase while at the wettbewerbsfaehig Schloss building contest.
 To pursue the mehlhase the biergate got in his BMW on the Hauptstrrasse.
 He drove his BMW as fast as he could, and the mehlhase led him to a Baeckerei where he decided to buy a apfelkuchen from a dog wearing lederhose.
+=======
+Little did he know the nice man was actually quite wettbewerbsfaehig.
+The biergaten worker saw a mehlhase while at the wettbewerbsfaehig Schloss building contest.
+To pursue the mehlhase the biergate got in his BMW on the Hauptstrrasse.
+>>>>>>> b8a853e0fb7349707955f422da52fa05d87dbe9d
