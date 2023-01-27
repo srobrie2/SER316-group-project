@@ -5,6 +5,6 @@
 ## Sydney 
 > https://github.com/eashaw2/dreikaesehoch_story/pull/11
 ## Trevor 
-> Paste link here
+> https://github.com/1219664875/TeamExerciseSER316/pull/4
 ## Sandie
 > Paste link here
